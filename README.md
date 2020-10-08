@@ -3,7 +3,9 @@ Escuela de Ciencias Exactas E Ingenieria
 
 Programación Paralela
 
+## Colaboradores
 Camilo Alberto Suarez Vanegas
+Juan Camilo Diaz
 
 # OpenMP
 Este repositorio contiene ejemplos de OpenMp en lenguaje C basados del repositorio de Mustafa Atik, con el cual desarrollo ejemplos en OpenMP en c++.
